@@ -8,6 +8,8 @@ I'm learning since my 11th years old, starting at developing Minecraft servers p
 <br><br>
 📬 How to contact me *demaupeoucorentin@gmail.com* or [*demaupeoucorentin#7607*](http://discord.com/) or [*@demaupeou_c*](https://twitter.com/demaupeou_c)
 
+![Corentin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Donald_Trumpyyy)
+<br>
 ![Corentin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=donaldtrumpyyy&hide=html,&hide_border=true&title_color=5391FE&text_color=555)
 ![Corentin's github stats](https://github-readme-stats.vercel.app/api?username=donaldtrumpyyy)
 
