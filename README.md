@@ -2,7 +2,7 @@
 
 ![Twitter](https://img.shields.io/twitter/follow/demaupeou_c?color=03adfc&style=for-the-badge)
 <br><br>
-I'm Corentin de Maupeou d'Ableiges de Monbail, I'm 15 and I'm a web front-end developer.
+I'm Corentin de Maupeou d'Ableiges de Monbail, I'm 16 and I'm a web front-end developer.
 <br>
 I'm learning since my 11th years old, starting at developing Minecraft servers plugins.
 <br><br>
